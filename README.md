@@ -5,5 +5,4 @@
 - HTML
 - CSS
 - JS
-- 
 ![preview img](/preview.png)
