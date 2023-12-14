@@ -1,4 +1,4 @@
-# 🏡 Responsive Landing Page for a Retail Company
+# 🏡 Holux - Responsive Landing Page for a Retail Company
 
 # My Awesome Project
 Holux is a retail website that presents luxury houses. It makes use of responsive design to make it available for all devices, as well as a modern design. 
