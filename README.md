@@ -27,7 +27,7 @@ In the future i may make this with a multipage approach and design a backend to 
 * Mobile first approach
 * BEM and code organization
 * Implementing dark mode
-* Mobile navigation aimation
+* Mobile navigation animation
 * Newsletter made with Convertkit to capture user email
 
 <!-- 
