@@ -3,7 +3,7 @@
 # My Awesome Project
 Holux is a retail website that presents luxury houses. It makes use of responsive design to make it available for all devices, as well as a modern design. 
 
-<a href="https://lucasperrotaroriz.github.io/Real-State-Landing-Page-01/" target="_blank">**Link to project:** </a>
+<a href="https://lucasperrotaroriz.github.io/Holux-Real-State-Landing-Page-01/" target="_blank">**Link to project:** </a>
 
 ## Desktop View
 ![preview img](https://github.com/LucasPerrotaRoriz/Real-State-Landing-Page-01/blob/main/assets/img/real-state.gif?raw=true)
