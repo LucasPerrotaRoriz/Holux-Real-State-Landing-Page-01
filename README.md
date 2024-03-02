@@ -14,7 +14,7 @@ Holux is a retail website that presents luxury houses. It makes use of responsiv
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript
 
-Made use of the <a href="https://scrollrevealjs.org/" target="_blank">Swiperjs library<a/> and <a href="https://swiperjs.com/" target="_blank">Swiperjs library<a/>to implement the 
+Made use of the <a href="https://scrollrevealjs.org/" target="_blank">Swiperjs library<a/> and <a href="https://scrollrevealjs.org/" target="_blank">ScrollRevalJS library<a/>to implement the 
 animations of the sections and the slider. 
 
 
